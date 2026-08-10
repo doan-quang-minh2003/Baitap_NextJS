@@ -1,3 +1,9 @@
+/*
+ * Copyright(C) 2026 Luvina Software Company
+ *
+ * Users.module.css, 11/08/2026 DoanQuangMinh
+ */
+
 .title {
   margin-bottom: 20px;
   text-align: center;
@@ -11,9 +17,9 @@
 }
 
 .table th {
+  padding: 12px;
   background-color: #2563eb;
   color: white;
-  padding: 12px;
 }
 
 .table td {
@@ -37,3 +43,4 @@
 .table a:hover {
   text-decoration: underline;
 }
+
